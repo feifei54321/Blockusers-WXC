@@ -11,7 +11,29 @@
 
 ![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/902.jpg)
 
-安装好以后右上角有个小button
+安装好以后右上角有个小button,点击它，选择create new script
 
 ![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/903.jpg)
+
+会打开一个代码框，清空这里面的代码，然后把Blockusers@WXC.user.js文件里的代码复制进去
+
+![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/904.jpg)
+
+最后把你想屏蔽的ID加进去，这段代码里面有id1，id2，id3，你只要取代他们为你想屏蔽的ID就可以。最后左上角点击File-Save
+
+# 效果图
+
+原图
+
+![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/1001.png)
+
+屏蔽飞飞54321以后的效果图
+
+![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/1002.png)
+
+也可以替换这个ID的ID名和发言
+
+![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/1003.png)
+
+
 
