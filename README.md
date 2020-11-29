@@ -5,5 +5,13 @@
 第一步，先安装浏览器插件Tampermonkey. https://www.tampermonkey.net/
 你可以看到官网提供了各类浏览器的插件，包括Chrome, Edge, Safari, Firefox, Opera, etc
 
+![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/901.png)
+
 下面以Chrome为例介绍
+
+![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/902.jpg)
+
+安装好以后右上角有个小button
+
+![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/903.jpg)
 
