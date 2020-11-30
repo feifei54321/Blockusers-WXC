@@ -19,7 +19,7 @@
 
 ![image](https://github.com/feifei54321/Blockusers-WXC/raw/main/images/904.jpg)
 
-【最后把你想屏蔽的ID加进去，这段代码里面有id1，id2，id3，你只要取代他们为你想屏蔽的ID就可以。最后左上角点击File-Save】
+【最后把你想屏蔽的ID加进去，这段代码里面有id1，id2，id3，你只要取代他们为你想屏蔽的ID就可以。你也可以增加ID，只要在后面添加逗号，引号，添加更多ID到列表就可以的。最后左上角点击File-Save】
 
 # 效果图
 
